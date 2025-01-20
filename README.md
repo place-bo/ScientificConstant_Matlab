@@ -1,2 +1,2 @@
 # SciConstant_Matlab
-This is a collection of Scientifc Constant for Matlab useage.
+This is a collection of Scientific Constant for Matlab use.
