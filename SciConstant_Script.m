@@ -35,6 +35,7 @@ save("SciConstant.mat")
 %% usage 
 clc,clear
 load("SciConstant.mat");
+keys(SciConstant);%% display the keys of Scientific Constant
 SciConstant('c').value
 SciConstant('c').unit
 SciConstant('c').name
